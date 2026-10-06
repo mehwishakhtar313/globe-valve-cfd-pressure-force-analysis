@@ -431,7 +431,7 @@ The study therefore illustrates how CFD can be used not only to visualize flow a
 # 21. Simulation Project
 
 **SimScale Project:**  
-[View the globe-valve CFD simulation](https://www.simscale.com/workbench/?pid=160784567582370993&rru=fb04395c-5104-4fba-8933-3e23a94dce5c&ci=5797284a-8e85-4b85-902a-a92bdbaa3325&mt=SIMULATION_RESULT&ct=SOLUTION_FIELD)
+[View the globe-valve CFD simulation](https://www.simscale.com/projects/mehwish_akhtar/cfd_simulation_of_pipe_flow_and_valve_pressure_1579652103/)
 
 ---
 
